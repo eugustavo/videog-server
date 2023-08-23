@@ -8,7 +8,11 @@
 
 
 <div align="center">
-  https://github.com/eugustavo/videog-server/assets/25755550/95f99f24-df2d-41a3-8e02-d5723ecc2d8a
+
+
+https://github.com/eugustavo/videog-server/assets/25755550/6699b126-852f-49c0-bc94-2eddc20615cd
+
+
 </div>
   
 ## :rocket: Como usar
